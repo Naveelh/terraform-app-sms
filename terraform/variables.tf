@@ -16,7 +16,7 @@ variable "pipeline_branch" {
 }
 
 variable "cellphone_number" {
-  default = "+573017311258"
+  default = "+919686893081"
 }
 
 variable "region" {
